@@ -1,0 +1,2 @@
+# WooCommerce-Product-Reviews-Shortcode
+WooCommerce product reviews shows by default in the “Reviews” tab in the single product page. But what if, like me, you’re using custom sales pages and need to show such reviews elsewhere – by using a shortcode?  I’ve spent some time doing this for two Business Bloomer pages, the contact page (beside the request a quote form) and the Bloomer Armada sales page (just above the pricing table), so I thought it would have been great sharing the snippet with you. Enjoy!
